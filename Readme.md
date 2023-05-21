@@ -21,3 +21,14 @@ To gain a deeper understanding of the sentiment behind the tweets, we will utili
 
 With the sentiment scores obtained, we will employ Seaborn, a powerful data visualization library built on top of Matplotlib, to create visually appealing and insightful plots. We will generate various plots, including sentiment distribution, sentiment trends over time, and word clouds to visualize the most frequent sentiment-associated terms in the tweets.
 
+## Visualizations
+
+### Most Popular Users (by no of likes)
+![like counts chart](charts\like_counts.png)
+
+
+### Most common occuring words in Tweets
+![wordcloud image](charts/wordcloud.png)
+
+### Sentiment Distribution(VADER)
+![sentiment distribution](charts/sentiment_distribution.png)
