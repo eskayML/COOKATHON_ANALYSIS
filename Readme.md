@@ -24,7 +24,7 @@ With the sentiment scores obtained, we will employ Seaborn, a powerful data visu
 ## Visualizations
 
 ### Most Popular Users (by no of likes)
-![like counts chart](charts\like_counts.png)
+![like counts chart](charts/like_counts.png)
 
 
 ### Most common occuring words in Tweets
