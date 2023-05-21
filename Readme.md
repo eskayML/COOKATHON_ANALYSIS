@@ -31,7 +31,7 @@ With the sentiment scores obtained, we will employ Seaborn, a powerful data visu
 ![wordcloud image](charts/wordcloud.png)
 
 ### Sentiment Distribution(VADER)
-`Positive`: > 0.5 , `Negative`: < -0.5 , `Neutral` -0.5 < value < 0.5
+`Positive`: > 0.5 , `Negative`: < -0.5 , `Neutral`: -0.5 < value < 0.5
 
 
 ![sentiment distribution](charts/sentiment_distribution.png)
